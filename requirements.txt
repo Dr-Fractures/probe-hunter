@@ -1,0 +1,4 @@
+scapy
+pyfiglet
+rich
+mac-vendor-lookup
